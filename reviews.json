@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations. Could improve on office hours availability."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent teacher! Makes complex topics easy to understand and always available for extra help."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes rushes through material. More practice exercises would be helpful."
+      },
+      {
+        "professor": "Prof. David Rodriguez",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Challenging course, but Prof. Rodriguez is patient and explains concepts well."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Best professor I've had! Engaging labs and relates topics to real-world applications."
+      },
+      {
+        "professor": "Prof. Robert Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Lectures are dry and monotonous. Grading seems arbitrary at times."
+      },
+      {
+        "professor": "Dr. Jennifer Lee",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Fascinating course content. Dr. Lee is passionate about the subject and it shows."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Insightful discussions but heavy workload. More feedback on essays would be appreciated."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Eye-opening course. Dr. Garcia encourages critical thinking and class participation."
+      },
+      {
+        "professor": "Prof. James Walker",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear lecturer and fair grader. Sometimes goes off-topic but overall a good professor."
+      },
+      {
+        "professor": "Dr. Elizabeth Taylor",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Field trips to museums were a highlight of the course."
+      },
+      {
+        "professor": "Prof. Andrew Kim",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting material but lectures can be disorganized. More structure would be beneficial."
+      },
+      {
+        "professor": "Dr. Olivia Martinez",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging professor with a focus on current environmental issues. Group projects were challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Daniel White",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Thought-provoking discussions and well-structured arguments. Prof. White is always open to different perspectives."
+      },
+      {
+        "professor": "Dr. Rachel Cohen",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Fascinating subject matter. Dr. Cohen makes language analysis accessible and fun."
+      },
+      {
+        "professor": "Prof. Steven Clark",
+        "subject": "Business Administration",
+        "stars": 2,
+        "review": "Outdated teaching methods and little real-world application. Needs to update the curriculum."
+      },
+      {
+        "professor": "Dr. Natalie Wong",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Brilliant professor! Explains complex concepts clearly and provides excellent research opportunities."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Knowledgeable but strict. Grading can be harsh, but you'll learn a lot if you put in the effort."
+      },
+      {
+        "professor": "Dr. Samantha Lee",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Engaging lecturer with a wealth of fieldwork experience. Course could benefit from more interactive elements."
+      },
+      {
+        "professor": "Prof. Christopher Evans",
+        "subject": "Mechanical Engineering",
+        "stars": 5,
+        "review": "Exceptional teacher who goes above and beyond to help students succeed. Challenging but rewarding course."
+      }
+    ]
+  }
